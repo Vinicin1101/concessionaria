@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const dotenv = require('dotenv');
 dotenv.config();
 
-const eureka = require('./eurekaClient');
+const eureka = require('../config/eurekaClient');
 
 const GATEWAY_ADDRESS = process.env.ADDRESS || 'localhost';
 const GATEWAY_PORT = process.env.PORT || 3000;

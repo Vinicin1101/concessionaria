@@ -1,0 +1,29 @@
+{
+    "manufacturer": [
+      {
+        "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+        "name": "Chevrolet",
+        "founded":	"3/11/1911",
+        "founder": "Arthur Chevrolet and Louis Chevrolet"
+      },
+      {
+        "id": "11888de1-7cc6-4736-b31b-b3bdc25598d5",
+        "name": "Ford Motor Company",
+        "founded":  "16/05/1903",
+        "founder": "Henry Ford"
+      },
+      {
+        "id": "1012752d-da12-46d6-9419-af0f4d15afd9",
+        "name": "Mercedes-Benz",
+        "founded":  "1924",
+        "founder": "Karl Benz e Gottlieb Daimler"
+      },
+      {
+        "id": "c09e354f-d681-4d95-85c4-fe95c45cfc4d",
+        "name": "Mitsubishi",
+        "founded":  "1924",
+        "founder": "Yataro Iwasaki"
+      }
+    ]
+}
+
